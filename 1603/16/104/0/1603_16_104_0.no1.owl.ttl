@@ -18,5 +18,6 @@
 <urn:mdciii:1603:16:104:0>
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:0" ;
-    skos:prefLabel "Myanmar"@eng-Latn, "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်‌"@mya-Mymr .
+    skos:prefLabel "Myanmar"@eng-Latn, "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်‌"@mya-Mymr ;
+    p:p297 "MM" .
 

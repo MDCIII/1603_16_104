@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,89 +29,104 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:1" ;
-    skos:prefLabel "Kachin"@eng-Latn, "ကချင်ပြည်နယ်"@mya-Mymr .
+    skos:prefLabel "Kachin"@eng-Latn, "ကချင်ပြည်နယ်"@mya-Mymr ;
+    wdata:q7200235 "MM001" .
 
 <urn:mdciii:1603:16:104:1:10>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:10" ;
-    skos:prefLabel "Mandalay"@eng-Latn, "မန္တလေးတိုင်းဒေသကြီး"@mya-Mymr .
+    skos:prefLabel "Mandalay"@eng-Latn, "မန္တလေးတိုင်းဒေသကြီး"@mya-Mymr ;
+    wdata:q7200235 "MM010" .
 
 <urn:mdciii:1603:16:104:1:11>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:11" ;
-    skos:prefLabel "Mon"@eng-Latn, "မွန်ပြည်နယ်"@mya-Mymr .
+    skos:prefLabel "Mon"@eng-Latn, "မွန်ပြည်နယ်"@mya-Mymr ;
+    wdata:q7200235 "MM011" .
 
 <urn:mdciii:1603:16:104:1:111>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:111" ;
-    skos:prefLabel "Bago"@eng-Latn, "ပဲခူးတိုင်းဒေသကြီး"@mya-Mymr .
+    skos:prefLabel "Bago"@eng-Latn, "ပဲခူးတိုင်းဒေသကြီး"@mya-Mymr ;
+    wdata:q7200235 "MM111" .
 
 <urn:mdciii:1603:16:104:1:12>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:12" ;
-    skos:prefLabel "Rakhine"@eng-Latn, "ရခိုင်ပြည်နယ်"@mya-Mymr .
+    skos:prefLabel "Rakhine"@eng-Latn, "ရခိုင်ပြည်နယ်"@mya-Mymr ;
+    wdata:q7200235 "MM012" .
 
 <urn:mdciii:1603:16:104:1:13>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:13" ;
-    skos:prefLabel "Yangon"@eng-Latn, "ရန်ကုန်တိုင်းဒေသကြီး"@mya-Mymr .
+    skos:prefLabel "Yangon"@eng-Latn, "ရန်ကုန်တိုင်းဒေသကြီး"@mya-Mymr ;
+    wdata:q7200235 "MM013" .
 
 <urn:mdciii:1603:16:104:1:17>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:17" ;
-    skos:prefLabel "Ayeyarwady"@eng-Latn, "ဧရာဝတီတိုင်းဒေသကြီး"@mya-Mymr .
+    skos:prefLabel "Ayeyarwady"@eng-Latn, "ဧရာဝတီတိုင်းဒေသကြီး"@mya-Mymr ;
+    wdata:q7200235 "MM017" .
 
 <urn:mdciii:1603:16:104:1:18>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:18" ;
-    skos:prefLabel "Nay Pyi Taw"@eng-Latn, "နေပြည်တော်"@mya-Mymr .
+    skos:prefLabel "Nay Pyi Taw"@eng-Latn, "နေပြည်တော်"@mya-Mymr ;
+    wdata:q7200235 "MM018" .
 
 <urn:mdciii:1603:16:104:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:2" ;
-    skos:prefLabel "Kayah"@eng-Latn, "ကယားပြည်နယ်"@mya-Mymr .
+    skos:prefLabel "Kayah"@eng-Latn, "ကယားပြည်နယ်"@mya-Mymr ;
+    wdata:q7200235 "MM002" .
 
 <urn:mdciii:1603:16:104:1:222>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:222" ;
-    skos:prefLabel "Shan"@eng-Latn, "ရှမ်းပြည်နယ်"@mya-Mymr .
+    skos:prefLabel "Shan"@eng-Latn, "ရှမ်းပြည်နယ်"@mya-Mymr ;
+    wdata:q7200235 "MM222" .
 
 <urn:mdciii:1603:16:104:1:3>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:3" ;
-    skos:prefLabel "Kayin"@eng-Latn, "ကရင်ပြည်နယ်"@mya-Mymr .
+    skos:prefLabel "Kayin"@eng-Latn, "ကရင်ပြည်နယ်"@mya-Mymr ;
+    wdata:q7200235 "MM003" .
 
 <urn:mdciii:1603:16:104:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:4" ;
-    skos:prefLabel "Chin"@eng-Latn, "ချင်းပြည်နယ်"@mya-Mymr .
+    skos:prefLabel "Chin"@eng-Latn, "ချင်းပြည်နယ်"@mya-Mymr ;
+    wdata:q7200235 "MM004" .
 
 <urn:mdciii:1603:16:104:1:5>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:5" ;
-    skos:prefLabel "Sagaing"@eng-Latn, "စစ်ကိုင်းတိုင်းဒေသကြီး"@mya-Mymr .
+    skos:prefLabel "Sagaing"@eng-Latn, "စစ်ကိုင်းတိုင်းဒေသကြီး"@mya-Mymr ;
+    wdata:q7200235 "MM005" .
 
 <urn:mdciii:1603:16:104:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:6" ;
-    skos:prefLabel "Tanintharyi"@eng-Latn, "တနင်္သာရီတိုင်းဒေသကြီး"@mya-Mymr .
+    skos:prefLabel "Tanintharyi"@eng-Latn, "တနင်္သာရီတိုင်းဒေသကြီး"@mya-Mymr ;
+    wdata:q7200235 "MM006" .
 
 <urn:mdciii:1603:16:104:1:9>
     obo:BFO_0000124 <urn:mcdiii:1603:16:104:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:104:1:9" ;
-    skos:prefLabel "Magway"@eng-Latn, "မကွေးတိုင်းဒေသကြီး"@mya-Mymr .
+    skos:prefLabel "Magway"@eng-Latn, "မကွေးတိုင်းဒေသကြီး"@mya-Mymr ;
+    wdata:q7200235 "MM009" .
 
